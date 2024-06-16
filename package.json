@@ -41,5 +41,8 @@
       "@semantic-release/commit-analyzer",
       "@semantic-release/git"
     ]
+  },
+  "devDependencies": {
+    "supabase": "^1.176.10"
   }
 }
